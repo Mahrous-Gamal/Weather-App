@@ -6,6 +6,9 @@
 ## [Website Demo](https://mahrous-gamal.github.io/Weather-App/)
 
 
+![image](https://github.com/Mahrous-Gamal/Weather-App/assets/105131896/082ff62a-7c2d-4772-8964-c58c836f5a59)
+
+
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
