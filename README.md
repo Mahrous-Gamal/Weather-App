@@ -1,18 +1,10 @@
-<div align="center">
-  
-  <h2 align="center">Filmlane - Movie website</h2>
+# Weather App
+- Responsive Calculator Using HTML, CSS, Bootstrap, and JavaScript.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-  Filmlane is a fully responsive movie website page, <br />Responsive for all devices, built using HTML, CSS, Bootstrap, and JavaScript.
+## [Website Demo](https://mahrous-gamal.github.io/Weather-App/)
 
-  <a href="https://codewithsadee.github.io/filmlane/"><strong>➥ Live Demo</strong></a>
-
-</div>
-
-<br />
-
-### Demo Screeshots
-
-![Filmlane Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -22,16 +14,18 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Filmlane** locally, run this command on your git bash:
+To run **Weather App** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/filmlane.git
+sudo git clone https://github.com/Mahrous-Gamal/Weather-App.git
 ```
-
-Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/filmlane.git
+git clone https://github.com/Mahrous-Gamal/Weather-App.git
 ```
+
+### Contact
+
+If you want to contact with me you can reach me at [Linkedin](https://www.linkedin.com/in/mahrous-gamal-044693218/).
